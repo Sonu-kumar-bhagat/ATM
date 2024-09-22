@@ -62,6 +62,6 @@ class ATM{
 public class ATMmachine {
     public static void main(String[] args) {
         ATM process=new ATM();
-        // process.checkPin();
+        process.checkPin();
     }
 }
